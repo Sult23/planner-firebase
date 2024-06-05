@@ -1,0 +1,26 @@
+[debug] [2024-06-05T13:35:54.561Z] ----------------------------------------------------------------------
+[debug] [2024-06-05T13:35:54.564Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\sulta\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2024-06-05T13:35:54.564Z] CLI Version:   13.10.2
+[debug] [2024-06-05T13:35:54.564Z] Platform:      win32
+[debug] [2024-06-05T13:35:54.564Z] Node Version:  v20.11.1
+[debug] [2024-06-05T13:35:54.564Z] Time:          Wed Jun 05 2024 18:35:54 GMT+0500 (Западный Казахстан)
+[debug] [2024-06-05T13:35:54.565Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-06-05T13:35:54.645Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-06-05T13:35:54.646Z] > authorizing via signed-in user (sultan.nurmatov@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\react\next-features
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+  * You are initializing within an existing Firebase project directory
+

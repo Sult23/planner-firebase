@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "next-features",
+    "stading": "next-features"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
